@@ -1,1 +1,1 @@
-# mission-cyber-sleuth
+# Canadian Army Cyber Challenge
